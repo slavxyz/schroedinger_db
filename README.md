@@ -65,7 +65,7 @@ VALUES ('cat', 'meow'),
 Clone the repository and move into the project directory:
 
 git clone <your-repository-url>
-cd QuirkyStore
+cd schroedinger_db
 
 
 Download dependencies:
@@ -78,7 +78,7 @@ Edit the database connection string in:
 
 cmd/app/main.go
 
-and in:
+and in:git status
 
 tests/quirky_test.go
 
